@@ -11,8 +11,8 @@
     }
   ],
   "version": "0.1.2",
-  "minimumCoreVersion": "0.6.0",
-  "compatibleCoreVersion": "0.6.6",
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "0.8.6",
   "url": "https://github.com/Foundry-Workshop/ammo-swapper",
   "manifest": "https://raw.githubusercontent.com/Foundry-Workshop/ammo-swapper/master/src/module.json",
   "download": "https://github.com/Foundry-Workshop/ammo-swapper/releases/download/v0.1.2/v0.1.2.zip",
